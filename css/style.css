@@ -7,4 +7,13 @@ body {
 }
 table {
     table-layout:auto;
+
+}
+
+form {
+  display:inline;
+}
+
+.btn {
+  float:right;
 }
